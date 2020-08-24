@@ -1,0 +1,34 @@
+2020-08-24 20:03:00,294 INFO initializing Raft sub-system
+
+2020-08-24 20:03:00,295 INFO raft notifier started
+
+2020-08-24 20:03:00,297 INFO finish loading all datums, size: 0 cost 3 ms.
+
+2020-08-24 20:03:00,300 INFO cache loaded, datum count: 0, current term: 0
+
+2020-08-24 20:03:00,300 INFO finish to load data from disk, cost: 6 ms.
+
+2020-08-24 20:03:00,302 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-08-24 20:03:00,087 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.31.134","key":"192.168.31.134:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-08-24 20:03:00,308 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.31.134","key":"192.168.31.134:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-08-24 20:03:00,518 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-08-24 20:03:12,579 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-08-24 20:03:15,084 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.31.134","key":"192.168.31.134:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-08-24 20:03:15,084 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.31.134","key":"192.168.31.134:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-08-24 20:03:15,084 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.31.134","key":"192.168.31.134:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-08-24 20:03:18,092 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.31.134","key":"192.168.31.134:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-08-24 21:02:21,565 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@grady-gateway
+
+2020-08-24 22:01:21,424 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@grady-auth-provider
+
+2020-08-24 22:01:21,424 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@grady-auth-provider
+

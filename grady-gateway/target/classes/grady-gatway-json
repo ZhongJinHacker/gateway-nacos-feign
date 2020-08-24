@@ -1,0 +1,41 @@
+{
+    "refreshGatewayRoute":false,
+    "routeList":[
+        {
+            "id":"github_route",
+            "predicates":[
+                {
+                    "name":"Path",
+                    "args":{
+                        "_genkey_0":"/meteor1993"
+                    }
+                }
+            ],
+            "filters":[
+
+            ],
+            "uri":"https://github.com",
+            "order":0
+        },
+        {
+            "id": "baidu.route",
+            "predicates":[
+                {
+                    "name":"Path",
+                    "args":{
+                        "_genkey_0":"/openapi/**"
+                    }
+                }
+            ],
+            "filters":[
+                {
+                    "name": "Openapi",
+                    "args": {
+                        "_genkey_0":"/openapi/**"
+                    }
+                }
+            ],
+            "uri":"https://baidu.com",
+        }
+    ]
+}

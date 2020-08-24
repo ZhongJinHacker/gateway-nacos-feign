@@ -1,0 +1,16 @@
+server:
+  port: 8802
+
+spring:
+  application:
+    name: grady-auth-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

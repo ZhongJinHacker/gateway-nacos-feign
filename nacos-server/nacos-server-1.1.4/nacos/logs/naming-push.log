@@ -1,0 +1,86 @@
+2020-08-24 21:02:22,692 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 21:26:53,500 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 21:27:10,583 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 21:38:28,430 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 21:39:08,529 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 21:59:58,253 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:01:22,437 INFO DEFAULT_GROUP@@grady-auth-provider is changed, add it to push queue.
+
+2020-08-24 22:03:08,444 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:05:10,145 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:05:26,045 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:10:04,026 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:10:19,884 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:10:30,841 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:10:49,532 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:13:52,911 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:14:08,295 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:20:28,715 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:20:28,883 INFO DEFAULT_GROUP@@grady-auth-provider is changed, add it to push queue.
+
+2020-08-24 22:20:28,884 INFO serviceName: DEFAULT_GROUP@@grady-auth-provider changed, schedule push for: 192.168.31.134:56011, agent: Nacos-Java-Client:v1.1.1, key: 192.168.31.134,56011,182411408986000
+
+2020-08-24 22:20:28,884 INFO send udp packet: 192.168.31.134,56011,182411408986000
+
+2020-08-24 22:20:28,935 INFO received ack: {"type": "push-ack", "lastRefTime":"182411408986000", "data":""} from: 192.168.31.134:, cost: 56011 ms, unacked: 51, total push: 0
+
+2020-08-24 22:20:55,142 INFO DEFAULT_GROUP@@grady-auth-provider is changed, add it to push queue.
+
+2020-08-24 22:21:31,579 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:23:43,465 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:23:46,725 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:24:03,481 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:24:09,660 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:27:07,636 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:27:07,764 INFO DEFAULT_GROUP@@grady-auth-provider is changed, add it to push queue.
+
+2020-08-24 22:27:07,764 INFO serviceName: DEFAULT_GROUP@@grady-auth-provider changed, schedule push for: 192.168.31.134:61273, agent: Nacos-Java-Client:v1.1.1, key: 192.168.31.134,61273,182810289824900
+
+2020-08-24 22:27:07,764 INFO send udp packet: 192.168.31.134,61273,182810289824900
+
+2020-08-24 22:27:07,773 INFO received ack: {"type": "push-ack", "lastRefTime":"182810289824900", "data":""} from: 192.168.31.134:, cost: 61273 ms, unacked: 9, total push: 0
+
+2020-08-24 22:27:33,143 INFO DEFAULT_GROUP@@grady-auth-provider is changed, add it to push queue.
+
+2020-08-24 22:28:07,364 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:33:06,759 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:33:51,402 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:38:44,996 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+
+2020-08-24 22:38:45,075 INFO DEFAULT_GROUP@@grady-auth-provider is changed, add it to push queue.
+
+2020-08-24 22:38:45,077 INFO serviceName: DEFAULT_GROUP@@grady-auth-provider changed, schedule push for: 192.168.31.134:62461, agent: Nacos-Java-Client:v1.1.1, key: 192.168.31.134,62461,183507601777800
+
+2020-08-24 22:38:45,077 INFO send udp packet: 192.168.31.134,62461,183507601777800
+
+2020-08-24 22:38:45,093 INFO received ack: {"type": "push-ack", "lastRefTime":"183507601777800", "data":""} from: 192.168.31.134:, cost: 62461 ms, unacked: 16, total push: 0
+
+2020-08-24 22:39:12,940 INFO DEFAULT_GROUP@@grady-auth-provider is changed, add it to push queue.
+
+2020-08-24 22:39:32,482 INFO DEFAULT_GROUP@@grady-gateway is changed, add it to push queue.
+

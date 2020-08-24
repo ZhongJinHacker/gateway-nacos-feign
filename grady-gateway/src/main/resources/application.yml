@@ -1,0 +1,23 @@
+server:
+  port: 8801
+
+spring:
+  application:
+    name: grady-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.31.134:8848
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 10000
+        readTimeout: 10000
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
